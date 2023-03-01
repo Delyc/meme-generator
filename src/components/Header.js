@@ -11,7 +11,6 @@ const Header = () => {
         />
         <h2 className="text-base">Meme Generator</h2>
       </div>
-      <h4 className="text-xs">React Course - Project 3</h4>
     </header>
   );
 };
