@@ -9,7 +9,7 @@ const Header = () => {
           className="h-10 mr-6"
           alt="Troll Face"
         />
-        <h2 className="text-base">Meme Generator</h2>
+        <h2 className="text-base">Mem Generator</h2>
       </div>
     </header>
   );
